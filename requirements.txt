@@ -1,0 +1,6 @@
+web3
+aiohttp
+eth-account
+fake-useragent
+better-automation
+loguru
